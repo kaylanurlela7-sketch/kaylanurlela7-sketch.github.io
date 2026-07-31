@@ -805,7 +805,7 @@ header.sticky {
     background: var(--secon-bg-color);
 
     padding: 2rem;
-
+    border: 2px solid white;
     border-radius: 15px;
 
     text-align: center;
